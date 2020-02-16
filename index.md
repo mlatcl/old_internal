@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+## Group Members
+
+{% for person in site.people %}
+{% include listperson.html %}
+{% endfor %}

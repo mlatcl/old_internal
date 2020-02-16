@@ -1,0 +1,7 @@
+---
+layout: default
+---
+
+{% if person.url %}<a href="{{ person.url }}">{% endif %}{% if person.title %}{{ person.title }}{% if person.name %}{{ person.name }}{% elsif person.given %}{{ person.given }} {{ person.family }}{% endif %}{% if person.url %}</a>{% endif %}{% if person.institute %} {{ person.institute }}{% endif %}{% if person.orcid %}, <a href="https://orcid.org/{{ person.orcid }}">ORCID</a>{% endif %}{% if person.scholar %}, <a href="https://scholar.google.co.uk/citations?user={{ person.scholar }}">Google Scholar</a>{% endif %}{% if person.twitter %}, <a href="https://twitter.com/{{ person.twitter }}">Twitter</a>{% endif %}{% if person.github %}, <a href="https://github.com/{{ person.github }}">Github</a>{% endif %}
+
+{{ content }}

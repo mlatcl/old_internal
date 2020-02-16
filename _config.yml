@@ -30,6 +30,8 @@ github_username:  mlatcl
 collections:
   people:
     output: true
+  projects:
+    output: true
 
 # Build settings
 theme: minima

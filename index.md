@@ -8,3 +8,7 @@ layout: home
 {% for person in site.people %}
 {% include listperson.html %}
 {% endfor %}
+
+{% for project in site.projects %}
+{% include listproject.html %}
+{% endfor %}

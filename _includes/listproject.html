@@ -1,0 +1,1 @@
+{% if project.url %}<a href="{{ project.url }}">{% endif %}{% if project.title %}{{ project.title }}{% endif %}{% if project.name %}{{ project.name }}{% elsif project.given %}{{ project.given }} {{ project.family }}{% endif %}{% if project.url %}</a>{% endif %}{% if project.institute %} {{ project.institute }}{% endif %}{% unless project == lastone %}, {% endunless %}

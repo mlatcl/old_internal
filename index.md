@@ -5,10 +5,21 @@
 layout: home
 ---
 
+
+## People
+
 {% for person in site.people %}
 {% include listperson.html %}
 {% endfor %}
 
+## Projects
+
 {% for project in site.projects %}
 {% include listproject.html %}
+{% endfor %}
+
+## Minijobs
+
+{% for job in site.minijobs %}
+{% include listminijob.html %}
 {% endfor %}

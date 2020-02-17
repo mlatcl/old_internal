@@ -12,12 +12,6 @@ layout: home
 {% include listperson.html %}
 {% endfor %}
 
-## Ad Hoc Seminars
-
-{% for seminar in site.ad-hoc-seminars %}
-{% include listseminar.html %}
-{% endfor %}
-
 ## Projects
 
 {% for project in site.projects %}

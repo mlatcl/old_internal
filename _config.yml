@@ -34,6 +34,12 @@ collections:
     output: true
   minijobs:
     output: true
+  seminars:
+    permalink: /seminars/:year/:month/:day/:title:output_ext
+    output: true
+  ad-hoc-seminars:
+    permalink: /adhoc/:year/:month/:day/:title:output_ext
+    output: true
 
 github:
   edit: true

@@ -1,0 +1,16 @@
+<div class="paper">
+  <p class="title">{{ seminar.title }}</p>
+  <p class="details">
+    <span class="authors">
+      {% assign lastone = seminar.author | last %}
+      {% for person in seminar.author %}
+      {% include listperson.html %}
+      {% endfor %}
+    </span>;
+    <span class="info">PMLR {{ site.volume}}{% if seminar.number %}({{seminar.number}}){%endif%}:{% if seminar.firstpage %}{{ seminar.firstpage }}{% endif %}{% if seminar.lastpage %}-{{ seminar.lastpage }}{% endif %}</span>
+  </p>
+  <p class="links">
+    [<a href="{{ site.url }}{{ site.baseurl }}{{ seminar.url }}">abs</a>]
+    [<a href="{{ seminar.pdf }}" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', {{ seminar.pdf}}, 10);">Download PDF</a>]{% if seminar.supplementary %}[<a href="{{ seminar.supplementary }}" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', {{ seminar.supplementary }}, 11);">Supplementary Material</a>]{% endif %}{% for extra in seminar.extras %}[<a href="{{ extra.link }}" target="_blank" onclick="ga('send', 'event', 'Extra Downloads', 'Download', '{{ extra.label }}', 12);">{{ extra.label }}</a>]{% endfor %}
+  </p>
+</div>

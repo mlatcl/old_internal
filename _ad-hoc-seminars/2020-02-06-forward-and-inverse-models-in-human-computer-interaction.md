@@ -3,7 +3,7 @@ layout: seminar
 title: Forward and Inverse models in Human-Computer Interaction
 subtitle: Physical simulation and machine learning for inferring 3D finger pose
 author:
-  title: Professor
+- title: Professor
   given: Roderick
   family: Murray-Smith
   institution: University of Glasgow

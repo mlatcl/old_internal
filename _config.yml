@@ -35,6 +35,9 @@ collections:
   minijobs:
     output: true
 
+github:
+  edit: true
+    
 # Build settings
 theme: minima
 plugins:

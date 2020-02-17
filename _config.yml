@@ -37,7 +37,10 @@ collections:
 
 github:
   edit: true
-    
+  repository: mlatcl.github.io
+
+future: true
+
 # Build settings
 theme: minima
 plugins:

@@ -61,8 +61,8 @@ abstract: >
   human-computer systems.
 talkscam: 139369
 venue: FW26, Computer Lab, 15 JJ Thomson Avenue, Cambridge
-start: 11:00
-end: 12:00
+start: "11:00"
+end: "12:00"
 ---
 
 Some related publications: Inverse methods via ML & for HCI Francesco Tonolini, Jack Radford, Alex Turpin, Daniele Faccio, Roderick Murray-Smith, Variational Inference for Computational Imaging Inverse Problems, Jan 2020 https://arxiv.org/abs/1904.06264

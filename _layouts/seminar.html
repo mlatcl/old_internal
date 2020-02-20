@@ -11,6 +11,10 @@ layout: default
 {% include listperson.html %}
 {% endfor %}</p>
 
+{%if page.start %}<p><b>Time:</b> {{ page.start }}{% if page.end %}-{{ page.end }}{% endif %}</p>{% endif %}
+{%if page.venue %}<p><b>Venue:</b> {{ page.venue }}</p>{% endif %}
+
+
 <p><b>Abstract</b>: {{ page.abstract }} </p>
 
 

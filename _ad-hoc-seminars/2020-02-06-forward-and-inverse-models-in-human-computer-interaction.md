@@ -6,7 +6,7 @@ author:
 - title: Professor
   given: Roderick
   family: Murray-Smith
-  institution: University of Glasgow
+  institute: University of Glasgow
   url: http://www.dcs.gla.ac.uk/~rod/
   bio: > 
     Roderick Murray-Smith is a Professor of Computing Science at Glasgow University, 

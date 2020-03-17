@@ -6,8 +6,25 @@ author:
 - title: Professor
   given: Roderick
   family: Murray-Smith
-  institution: University of Glasgow
+  institute: University of Glasgow
   url: http://www.dcs.gla.ac.uk/~rod/
+  bio: > 
+    Roderick Murray-Smith is a Professor of Computing Science at Glasgow University, 
+    leading the Inference, Dynamics and Interaction research group, and heads the 
+    60-strong Section on Information, Data and Analysis, which also includes the Information 
+    Retrieval, Computer Vision & Autonomous systems and KDE Big Data groups. He works in the 
+    overlap between machine learning, interaction design and control theory. In recent years 
+    his research has included multimodal sensor-based interaction with mobile devices, 
+    mobile spatial interaction, AR/VR, Brain-Computer interaction and nonparametric machine 
+    learning. Prior to this he held positions at the Hamilton Institute, NUIM , Technical 
+    University of Denmark, M.I.T. (Mike Jordan’s lab), and Daimler-Benz Research, Berlin, and 
+    is the Director of SICSA , the Scottish Informatics and Computing Science Alliance (all 
+    academic CS departments in Scotland). He works closely with the mobile phone industry, 
+    having worked together with Nokia, Samsung, FT/Orange, Microsoft and Bang & Olufsen. 
+    He was a member of Nokia’s Scientific Advisory Board and a member of the Scientific 
+    Advisory Board for the Finnish Centre of Excellence in Computational Inference Research. 
+    He has co-authored three edited volumes, 38 journal papers, 21 book chapters, and 
+    over 100 conference papers.
 abstract: >
   I will give a brief overview of the research activities in the
   Information, Data & Analysis Section at the University of Glasgow,
@@ -43,8 +60,9 @@ abstract: >
   towards a more constructive human model-based pipeline for design of
   human-computer systems.
 talkscam: 139369
-venue: Computer Laboratory, William Gates Building, Room FW26.
-time: 11:00
+venue: FW26, Computer Lab, 15 JJ Thomson Avenue, Cambridge
+start: "11:00"
+end: "12:00"
 ---
 
 Some related publications: Inverse methods via ML & for HCI Francesco Tonolini, Jack Radford, Alex Turpin, Daniele Faccio, Roderick Murray-Smith, Variational Inference for Computational Imaging Inverse Problems, Jan 2020 https://arxiv.org/abs/1904.06264
@@ -72,8 +90,6 @@ C.F. Higham, R. Murray-Smith, M.J. Padgett, M.P. Edgar, Deep learning for real-t
 Nuclear physics & Gaussian processes: D. G. Ireland, M. Döring, D. I. Glazier, J. Haidenbauer, M. Mai, R. Murray-Smith, and D. Rönchen, Kaon Photoproduction and the Λ Decay Parameter α−, Phys. Rev. Lett. 123, 182301, October 2019. pdf
 
 Gravitational waves: H Gabbard, C Messenger, IS Heng, F Tonolini, R Murray-Smith, Bayesian parameter estimation using conditional variational autoencoders for gravitational-wave astronomy, Sept 2019 https://arxiv.org/abs/1909.06296
-
-BIOGRAPHY Roderick Murray-Smith is a Professor of Computing Science at Glasgow University, leading the Inference, Dynamics and Interaction research group, and heads the 60-strong Section on Information, Data and Analysis, which also includes the Information Retrieval, Computer Vision & Autonomous systems and KDE Big Data groups. He works in the overlap between machine learning, interaction design and control theory. In recent years his research has included multimodal sensor-based interaction with mobile devices, mobile spatial interaction, AR/VR, Brain-Computer interaction and nonparametric machine learning. Prior to this he held positions at the Hamilton Institute, NUIM , Technical University of Denmark, M.I.T. (Mike Jordan’s lab), and Daimler-Benz Research, Berlin, and is the Director of SICSA , the Scottish Informatics and Computing Science Alliance (all academic CS departments in Scotland). He works closely with the mobile phone industry, having worked together with Nokia, Samsung, FT/Orange, Microsoft and Bang & Olufsen. He was a member of Nokia’s Scientific Advisory Board and a member of the Scientific Advisory Board for the Finnish Centre of Excellence in Computational Inference Research. He has co-authored three edited volumes, 38 journal papers, 21 book chapters, and over 100 conference papers.
 
 http://www.dcs.gla.ac.uk/rod/ http://www.dcs.gla.ac.uk/~rod/Publications.htm https://twitter.com/IDAglasgow https://twitter.com/MurraySmithRod
 

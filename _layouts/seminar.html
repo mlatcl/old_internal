@@ -11,7 +11,11 @@ layout: default
 {% include listperson.html %}
 {% endfor %}</p>
 
-<p><b>Abstract</b>: {{ page.abstract }} </p>
+{%if page.start %}<p><b>Time:</b> {{ page.start }}{% if page.end %}-{{ page.end }}{% endif %}</p>{% endif %}
+{%if page.venue %}<p><b>Venue:</b> {{ page.venue }}</p>{% endif %}
 
+{%if page.abstract %}<p><b>Abstract</b>: {{ page.abstract }} </p>{% endif %}
+
+{% for person in page.author %}{% if person.bio %}<p><b>Bio</b>: {{ person.bio }} </p>{% endif %}{% endfor %}
 
 {{ content }}

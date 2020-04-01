@@ -1,7 +1,7 @@
 ---
 layout: faculty
 given: Carl Henrik
-family: 
+family: Ek
 website: 
 orcid: 
 twitter: 

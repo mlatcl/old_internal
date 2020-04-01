@@ -2,10 +2,10 @@
 layout: faculty
 given: Carl Henrik
 family: Ek
-website: 
-orcid: 
+website: http://carlhenrik.com/
+orcid: 0000-0003-1302-6309
 twitter: 
-github: 
+github: carlhenrikek
 linkedin: 
 date: 2020-06-01
 csrid:

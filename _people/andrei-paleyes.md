@@ -3,7 +3,7 @@ layout: phd
 given: Andrei
 family: Paleyes
 url: 
-orcid: 0000-0002-6458-1022
+orcid:
 twitter: 
 github: apaleyes
 linkedin: andreipaleyes

@@ -1,5 +1,5 @@
 ---
-layout: faculty
+layout: person
 given: Neil D.
 family: Lawrence
 website: http://inverseprobability.com

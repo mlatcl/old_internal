@@ -18,14 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ML@CL Group
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the website of the ML@CL interest group. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mlatcl
-github_username:  mlatcl
 
 collections:
   people:
@@ -40,17 +34,35 @@ collections:
   ad-hoc-seminars:
     permalink: /adhoc/:year/:month/:day/:title:output_ext
     output: true
-
-github:
+logo: logo.png
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: mlatcl
+description: This is a page of ML researchers based in the Computer Laboratory working in collaboration with Carl Henrik Ek, Ferenc Huszar and Neil Lawrence.
+baseurl: ''
+markdown: kramdown
+twitter_username: mlatcl
+github_username: mlatcl
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    ris: true
+    apa: true
+  comments: false
+ghub:
   edit: true
   repository: mlatcl.github.io
+future: true
+publisher: The Computer Laboratory
+author:
+  name: ML@CL
+  github: mlatcl
 
 future: true
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

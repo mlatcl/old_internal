@@ -6,17 +6,4 @@ layout: home
 ---
 
 
-## People
-
-{% assign lastone = site.people | last %}
-{% for person in site.people %}
-{% include listperson.html %}
-{% endfor %}
-
-## Projects
-
-{% assign lastone = site.projects | last %}
-{% for project in site.projects %}
-{% include listproject.html %}
-{% endfor %}
-
+This page summarizes the work and projects in machine learning of students and researchers working with Carl Henrik Ek, Ferenc Huszar and Neil Lawrence and Jessica Montgomery. 

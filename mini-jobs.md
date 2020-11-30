@@ -3,6 +3,22 @@ layout: default
 title: Mini-jobs
 ---
 
+<style>
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+</style>
+
+## List of Minijobs
+
+<ul>
+{% for job in site.minijobs %}
+<li>{% include listminijob.html %}</li>
+{% endfor %}
+</ul>
+
 ## What's a mini-job you say? 🤔
 
 ## Mini-job properties include:
@@ -14,8 +30,3 @@ title: Mini-jobs
 5. Everyone should have one! The purpose is to balance side work across the team so a few people don't end up doing all the organizing / admin / etc. 👨‍👩‍👧‍👧👨‍👨‍👧‍👦👩‍👩‍👦‍👦 If there aren't enough jobs... Find something else to help out with and make one up!
 6. Includes a detailed enough description for someone else to pick up the mini-job in your stead. This will differ for each job, but just make sure that someone else wouldn't be lost if they needed to do it . Links to relevant pages are great here 👏
 
-## List of Minijobs
-
-{% for job in site.minijobs %}
-{% include listminijob.html %}
-{% endfor %}

@@ -1,7 +1,8 @@
 ---
-layout: phd
+layout: person
 given: Eric
 family: Meissner
+student: True
 url: 
 orcid: 
 twitter: 

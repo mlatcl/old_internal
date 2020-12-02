@@ -5,7 +5,7 @@
 layout: home
 ---
 
-###ML@CL seeks to advance the safe and reliable deployment of machine learning systems to tackle the real-world challenges.### 
+ML@CL seeks to advance the safe and reliable deployment of machine learning systems to tackle the real-world challenges. 
 
 This site summarises current activities from the students and researchers working with Carl Henrik Ek, Ferenc Huszar, Neil Lawrence and Jessica Montgomery. Our work addresses the full pipeline of AI system development, from data acquisition to system deployment, advancing these research ideas in a wider context that considers the availability, quality and ethics of data use and the ways in which machine learning can be deployed for public benefit. Areas of interest include:
 

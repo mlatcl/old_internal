@@ -18,9 +18,15 @@ ul {
 {% unless project.finished %}{% include listproject.html %}{% endunless %}
 {% endfor %}
 
+[Data Trusts Initiative](www.datatrusts.uk)
+
+[Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate)
+
 
 ## Former Projects
 
 {% for project in site.projects %}
 {% if project.finished %}{% include listproject.html %}{% endif %}
 {% endfor %}
+
+[Data Evaluation and Learning for Viral Epidemics, DELVE](https://rs-delve.github.io/about.html)

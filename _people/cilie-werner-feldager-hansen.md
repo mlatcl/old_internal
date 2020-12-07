@@ -1,5 +1,5 @@
 ---
-layout: visitor
+layout: person
 given: Cilie
 family: Werner Feldager Hansen
 website: https://www.dtu.dk/service/telefonbog/person?id=116303&tab=3&qt=dtuprojectquery

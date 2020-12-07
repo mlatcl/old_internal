@@ -62,6 +62,9 @@ author:
   name: ML@CL
   github: mlatcl
 
+analytics:
+  google: 
+    tracking_id: UA-184894912-1
 future: true
 
 # Exclude from processing.

@@ -18,7 +18,7 @@ ul {
 {% unless project.finished %}{% include listproject.html %}{% endunless %}
 {% endfor %}
 
-[Data Trusts Initiative](www.datatrusts.uk)
+[Data Trusts Initiative](https://datatrusts.uk)
 
 [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate)
 

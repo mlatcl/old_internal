@@ -2,7 +2,7 @@
 layout: project
 title: "Innovation to deployment: Machine learning systems design"
 tagline: "Improving the way AI is deployed, monitored and maintained through a systems design approach"
-people: [ndl21, erm70, ap2169]
+people: [ndl21, erm70, ap2169, che29]
 ---
 
 ## Introduction

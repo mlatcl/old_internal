@@ -5,9 +5,9 @@ layout: default
 
 <style>
 ul {
-  columns: 3;
-  -webkit-columns: 3;
-  -moz-columns: 3;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 </style>
 
@@ -15,7 +15,9 @@ ul {
 ## Projects
 
 {% for project in site.projects %}
-{% unless project.finished %}{%-include listproject.html prefix="* " postfix="" separator="" -%}{% endunless %}
+  {%- unless project.finished -%}
+    {%-include listproject.html prefix="* " postfix="" separator="" -%}
+  {%- endunless -%}
 {% endfor %}
 * [Data Trusts Initiative](https://datatrusts.uk)
 * [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate)

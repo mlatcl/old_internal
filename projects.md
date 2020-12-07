@@ -24,6 +24,8 @@ ul {
 ## Former Projects
 
 {% for project in site.projects %}
-{% if project.finished %}{%- include listproject.html prefix="* " postfix="" separator="" -%}{% endif %}
+  {%-if project.finished-%}
+    {%- include listproject.html prefix="* " postfix="" separator="" -%}
+  {%- endif -%}
 {% endfor %}
 * [Data Evaluation and Learning for Viral Epidemics, DELVE](https://rs-delve.github.io/about.html)

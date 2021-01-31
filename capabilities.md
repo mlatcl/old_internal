@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Research Capabilities
+title: Capabilities
+---
 
-This is an attempt to characterize the different capabilities
-that a researcher needs to be successful. The aim is to list a set of
+This is an attempt to characterize the different reasearch capabilities
+that you may need to be successful in academia. The aim is to list a set of
 criteria that are a useful guide for helping recognise the diversity of skills that a researcher needs to be successful.
 
 The capabilities below are divided into two groups of five criteria. These
@@ -11,6 +12,8 @@ groups are associated with individual capabilities, the abilities you
 need to succeed through personal drive. And interaction capabilities.
 The abilities you need to improve those around you and benefit from
 their understanding.
+
+The list is not exhaustive, and we'd be happy to hear of additional ideas to include or ways of refining the capabilities.
 
 ## Individual
 

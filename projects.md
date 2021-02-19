@@ -30,4 +30,4 @@ ul {
     {%- include listproject.html prefix="* " postfix="" separator="" -%}
   {%- endif -%}
 {% endfor %}
-* [Data Evaluation and Learning for Viral Epidemics, DELVE](https://rs-delve.github.io/about.html)
+* [DELVE: Data Evaluation and Learning for Viral Epidemics](https://rs-delve.github.io/about.html)

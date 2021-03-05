@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Andrei
 family: Paleyes
 student: True

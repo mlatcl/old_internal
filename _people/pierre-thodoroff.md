@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Pierre
 family: Thodoroff
 student: True

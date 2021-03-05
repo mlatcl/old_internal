@@ -1,5 +1,5 @@
 ---
-layout: faculty
+layout: person
 given: Carl Henrik
 family: Ek
 website: http://carlhenrik.com/

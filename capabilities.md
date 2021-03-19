@@ -50,7 +50,7 @@ The list is not exhaustive, and we'd be happy to hear of additional ideas to inc
     fellow researchers either as peer or as a mentor or sharing your
     perspective as a mentee.
 
-3.  Vision: Being able to project an inspirational view on the ideas
+3.  Communication of Vision: Being able to project an inspirational view on the ideas
     that you feel passionate about that draws those around you into the
     problem.
 

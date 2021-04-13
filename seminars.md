@@ -10,7 +10,9 @@ The group has two seminar series.
 Our seminar series invites leading figures in machine learning to discuss topics of current interest. Upcoming events include:
 
 **An AI revolution in science? Using machine learning for scientific discovery**
+
 Neil Lawrence, Kyle Cranmer, Yolanda Gil, Pushmeet Kohli, Emily Shuckburgh
+
 26 April 2021, 17:00 - 18:30 (register at: https://www.cst.cam.ac.uk/news/ai-revolution-science-using-machine-learning-scientific-discovery)
 
 {% assign lastone = site.seminars | last %}

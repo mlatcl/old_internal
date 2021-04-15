@@ -2,6 +2,8 @@
 layout: person
 given: Cilie
 family: Werner Feldager Hansen
+student: False
+visitor: True
 website: https://www.dtu.dk/service/telefonbog/person?id=116303&tab=3&qt=dtuprojectquery
 orcid: 0000-0002-6458-1022
 twitter: ciliefeldager

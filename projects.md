@@ -21,6 +21,7 @@ ul {
 {% endfor %}
 * [Data Trusts Initiative](https://datatrusts.uk)
 * [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate)
+* [Data Sharing in Africa: lessons from COVID-19](https://mamutorine.github.io/about/)
 
 
 ## Former Projects

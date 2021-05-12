@@ -5,7 +5,7 @@ title: Policy
 
 Policy plays a crucial role in influencing where, how and for whose benefit machine learning systems are developed and deployed. By synthesising evidence for use in policy development and engaging with policymakers, ML@CL contributes to the development of policy frameworks for AI that enable safe and effective use of machine learning. Recent examples of this work are provided below.
 
-**ELISE (forthcoming; 2021) Creating a European AI Powerhouse: A Strategic Research Agenda from the European Learning and Intelligent Systems Excellence (ELISE) consortium**
+**[ELISE](https://www.elise-ai.eu/work/agenda-and-programs) (2021) Creating a European AI Powerhouse: A Strategic Research Agenda from the European Learning and Intelligent Systems Excellence (ELISE) consortium**
 
 Prepared by the ELISE consortium for the European Commission, this Strategic Research Agenda sets out areas in which further technology development can help create trustworthy AI systems. ML@CL synthesised expert input from consortium members to create this Agenda. 
 

@@ -22,6 +22,7 @@ ul {
 * [Data Trusts Initiative](https://datatrusts.uk)
 * [Accelerate Programme for Scientific Discovery](https://www.cst.cam.ac.uk/accelerate)
 * [Data Sharing in Africa: lessons from COVID-19](https://mamutorine.github.io/about/)
+* [European Network of AI Excellence Centres, ELISE](https://www.elise-ai.eu/work/agenda-and-programs) 
 
 
 ## Former Projects

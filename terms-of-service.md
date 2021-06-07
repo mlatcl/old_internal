@@ -3,11 +3,11 @@ title: Terms of Service
 layout: page
 ---
 
-Please read these terms of service ("terms", "terms of service") carefully before using ml@cl website (the "service") operated by [name] ("us", 'we", "our").
+Please read these terms of service ("terms", "terms of service") carefully before using ml@cl website (the "service") operated by ML@CL ("us", 'we", "our").
 
 ## Conditions of Use
 
-We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully.
+The services provided by this website are subject to the conditions stated below. Every time you visit this website, use its services or make a purchase, you accept the following conditions. We urge you to read them carefully.
 
 ## Privacy Policy
 
@@ -19,11 +19,11 @@ Except where stated, content published on this website (digital downloads, image
 
 ## Communications
 
-The entire communication with us is electronic. Every time you send us an email or visit our website, you are going to be communicating with us. You hereby consent to receive communications from us. We will continue to communicate with you by posting news and notices on our website. You also agree that all notices, disclosures, agreements and other communications we provide to you electronically meet the legal requirements that such communications be in writing.
+Every time you send us an email or visit our website, you are going to be communicating with us. You hereby consent to receive communications from us. We will continue to communicate with you by posting news and notices on our website. You also agree that all notices, disclosures, agreements and other communications we provide to you electronically meet the legal requirements that such communications be in writing.
 
 ## Applicable Law
 
-By visiting this website, you agree that the laws of the United Kingdom, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between [name] and you, or its business partners and associates.
+By visiting this website, you agree that the laws of the United Kingdom, without regard to principles of conflict laws, will govern these terms of service, or any dispute of any sort that might come between ML@CL and you, or its business partners and associates.
 
 ## Disputes
 
@@ -33,7 +33,7 @@ Any dispute related in any way to your visit to this website shall be arbitrated
 
 Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content has to be free of software viruses, political campaign, and commercial solicitation.
 
-We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant [name] non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media.
+We reserve all rights (but not the obligation) to remove and/or edit such content. When you post your content, you grant ML@CL non-exclusive, royalty-free and irrevocable right to use, reproduce, publish, modify such content throughout the world in any media.
 
 ## License and Site Access
 

@@ -5,6 +5,5 @@ title: Privacy
 layout: page
 ---
 
-## Introduction
 
 The ML@CL group is a research group within the University of Cambridge. We follow the University of Cambridge's privacy policy as given on this page <https://www.cam.ac.uk/about-this-site/privacy-policy>. 

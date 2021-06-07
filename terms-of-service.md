@@ -39,3 +39,4 @@ We reserve all rights (but not the obligation) to remove and/or edit such conten
 
 We grant you a limited license to access and make personal use of this website.
 
+This terms of service noticed is based on the template provided [here](https://www.websitepolicies.com/blog/sample-terms-service-template).

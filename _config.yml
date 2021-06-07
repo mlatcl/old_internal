@@ -41,7 +41,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: mlatcl/bulmalawrennd/proceedings
+remote_theme: lawrennd/proceedings
 style: mlatcl
 description: This is a page of ML researchers based in the Computer Laboratory working in collaboration with Carl Henrik Ek, Ferenc Huszar, Neil Lawrence and Jessica Montgomery.
 baseurl: ''

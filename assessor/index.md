@@ -1,5 +1,5 @@
 ---
-title: Asessor App
+title: Assessor App
 layout: page
 ---
 

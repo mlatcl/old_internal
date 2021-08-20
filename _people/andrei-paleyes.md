@@ -3,7 +3,7 @@ layout: person
 given: Andrei
 family: Paleyes
 student: True
-url: 
+url: https://paleyes.info/
 orcid:
 twitter: 
 github: apaleyes

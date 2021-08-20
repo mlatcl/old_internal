@@ -3,7 +3,7 @@ layout: person
 given: Pierre
 family: Thodoroff
 student: True
-url: 
+url: https://pierthodo.github.io/
 orcid:
 twitter: 
 github: 

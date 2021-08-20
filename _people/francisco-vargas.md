@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Francisco
 family: Vargas
 student: True

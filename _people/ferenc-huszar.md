@@ -1,5 +1,5 @@
 ---
-layout: faculty
+layout: person
 given: Ferenc
 family: Huszár
 website: https://www.inference.vc/about/

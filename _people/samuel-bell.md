@@ -4,10 +4,11 @@ given: Samuel
 family: Bell
 student: True
 url: https://samueljamesbell.com
-orcid: https://orcid.org/0000-0002-9437-5449
-twitter: https://twitter.com/neurosamuel
-github: https://github.com/samueljamesbell
-linkedin: https://www.linkedin.com/in/samueljamesbell
+orcid: 0000-0002-9437-5449
+twitter: neurosamuel
+scholar: yfgSAi8AAAAJ
+github: samueljamesbell
+linkedin: samueljamesbell
 start: 2020-10-08
 csrid: sjb326
 supervisor: ndl21

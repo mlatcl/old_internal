@@ -8,7 +8,7 @@ twitter:
 github: carlhenrikek
 linkedin: 
 date: 2020-06-01
-csrid: che29
+crsid: che29
 supervisor: 
 ---
 

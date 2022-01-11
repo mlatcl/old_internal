@@ -9,7 +9,7 @@ twitter:
 github: apaleyes
 linkedin: andreipaleyes
 start: 2020-02-12
-csrid: ap2169
+crsid: ap2169
 supervisor: ndl21
 ---
 

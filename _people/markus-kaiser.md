@@ -8,7 +8,7 @@ orcid:
 scholar: _WlQuG0AAAAJ
 twitter: 
 github: mrksr
-csrid: mk2092
+crsid: mk2092
 start: 2021-03-01
 supervisor:
 - 'ndl21'

@@ -9,7 +9,7 @@ twitter:
 github: meissnereric
 linkedin: meissnereric
 start: 2020-01-15
-csrid: erm70
+crsid: erm70
 supervisor: ndl21
 ---
 

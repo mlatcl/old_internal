@@ -3,13 +3,13 @@ layout: person
 given: Andrei
 family: Paleyes
 student: True
-url: https://paleyes.info/
+website: https://paleyes.info/
 orcid:
 twitter: 
 github: apaleyes
 linkedin: andreipaleyes
 start: 2020-02-12
-csrid: ap2169
+crsid: ap2169
 supervisor: ndl21
 ---
 

@@ -3,14 +3,14 @@ layout: person
 given: Samuel
 family: Bell
 student: True
-url: https://samueljamesbell.com
+website: https://samueljamesbell.com
 orcid: 0000-0002-9437-5449
 twitter: neurosamuel
 scholar: yfgSAi8AAAAJ
 github: samueljamesbell
 linkedin: samueljamesbell
 start: 2020-10-08
-csrid: sjb326
+crsid: sjb326
 supervisor: ndl21
 ---
 

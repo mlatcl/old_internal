@@ -1,0 +1,10 @@
+---
+given: Justin
+family: Tan
+crsid: jt976
+position: PhD Student
+socials:
+team: True
+---
+
+Justin's research lies at the intersection of geometry and machine learning, searching for interesting structure in geometries which feature in string theory and other areas of mathematical physics. Previously he worked in experimental particle physics at the Belle II experiment.

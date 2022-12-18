@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: standard
 title: Capabilities
 ---
+
+<section class="block block__text">
+    <div class="container">
 
 This is an attempt to characterize the different reasearch capabilities
 that you may need to be successful in academia. The aim is to list a set of
@@ -59,3 +62,6 @@ The list is not exhaustive, and we'd be happy to hear of additional ideas to inc
 5.  Inclusivity: Being aware of those who are being left out of a
     conversation and capable of turning the conversation to bring them
     in.
+
+</div>
+</section>
